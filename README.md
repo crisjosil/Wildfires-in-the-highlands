@@ -5,6 +5,6 @@
 
 Using imagery from the [EO browser]( https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME&toTime=2023-12-22T12%3A35%3A16.615Z) , I used data captured by the Sentinel-2 satellite to locate the fire. Using a fire visualisation algorithm that employs multispectral information of bands …, we can visualise the burn scars of the wildfire. More details of this algorithm can be found [here]( https://pierre-markuse.net/2022/09/21/quickfire-1-0-visualizing-fires-in-the-sentinel-hub-eo-browser/). The imagery captured before and after the fire clearly shows the extent of it:
 
-![Alt text](./Wildfires.png?raw=true "Wildfires in the Highlands, UK")
+![Alt text](./Wildfire.png?raw=true "Wildfires in the Highlands, UK")
 
 
